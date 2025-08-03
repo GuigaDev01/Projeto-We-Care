@@ -1,0 +1,28 @@
+* {
+    font-family: "Montserrat", sans-serif;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.link-header {
+    font-weight: 600;
+    color: #989D9C;
+    width: 108;
+    height: 29;
+}
+
+.button-header {
+    border-radius: 50px;
+    background-color: #665AE1;
+    border: none;
+    width: 130px;
+    height: 41px;
+    font-size: 600;
+    color: #FFFFFF;
+}
+
+.image-logo {
+    width: 568px;
+    height: 500px;
+}
